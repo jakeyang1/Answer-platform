@@ -12,6 +12,8 @@ import lombok.Data;
 @Data
 public class UserAddRequest implements Serializable {
 
+
+
     /**
      * 用户昵称
      */
